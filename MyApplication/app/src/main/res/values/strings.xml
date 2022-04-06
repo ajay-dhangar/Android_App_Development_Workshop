@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="Profession">
+        <item>Politician</item>
+        <item>Scientist</item>
+        <item>Sports</item>
+        <item>Musician</item>
+        <item>Industrialist</item>
+    </string-array>
+
+</resources>

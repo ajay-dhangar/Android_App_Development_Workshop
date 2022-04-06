@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Shiva_01</string>
+    <string name="open_previous_activity">Open Previous Activity</string>
+    <string name="open_next_activity">Open Next Activity</string>
+    <string name="open_spinner_activity">Open Spinner Activity</string>
+    <string name="open_Browser_activity">Open Browser Activity</string>
+</resources>
